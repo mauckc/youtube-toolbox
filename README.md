@@ -1,28 +1,28 @@
 # youtube-toolbox
-download youtube video by start_timestamp and duration 
+Download youtube video by start_timestamp and duration 
 
-Good for usage with larger youtube videos that are difficult to deal with due to there large size.
-Eases for reduction data file size down to below 25mb for web management
+* Good for usage with larger youtube videos that are difficult to deal with due to there large size.
+* Eases for reduction data file size down to below 25mb for web management
 
 ## Dependencies
 ### youtube-dl command line tools
 #### Linux
-
+available via apt-get
 ```shell
 sudo apt-get install youtube-dl
 ```
 
 #### Mac with Homebrew
 
+* Homebrew Page: https://brew.sh/
+
 ```shell
 brew install youtube-dl
 ```
 
 #### Windows
-Page link:
-https://rg3.github.io/youtube-dl/
-Download link:
-https://rg3.github.io/youtube-dl/download.html
+* Page Link: https://rg3.github.io/youtube-dl/
+* Download link: https://rg3.github.io/youtube-dl/download.html
 
 ### Test Installation
 ```shell
